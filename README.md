@@ -2,6 +2,8 @@
 
 Note: It only works for BCS batch of 2021-22
 
+WARNING: USE THIS AT YOUR OWN RISK. I WILL NOT BE RESPONSIBLE FOR ANYTHING
+
 ## Setup
 
 ```bash
